@@ -1,0 +1,47 @@
+body {
+	background-image: url(images/pexels-luck-galindo-544268.jpg);
+	background-size: cover;
+}
+
+button {
+	height: 7vh;
+	width: 15vw;
+	border-radius: 7px;
+}
+
+h1,
+h2 {
+	color: white;
+}
+
+img {
+	height: 30vh;
+	margin-left: 10vw;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.container2 {
+	margin-top: 3vh;
+	margin-bottom: 3vh;
+	border: solid;
+	border-color: white;
+	width: 80vw;
+	height: 50vh;
+	contain: content;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	gap: 3vw;
+}
+
+.container3 {
+	width: 30vw;
+	height: 35vh;
+}
